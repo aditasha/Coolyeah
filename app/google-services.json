@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "812915523174",
+    "firebase_url": "https://coolyeah-6bad8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "coolyeah-6bad8",
+    "storage_bucket": "coolyeah-6bad8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812915523174:android:3950145b1a21078ddb37a7",
+        "android_client_info": {
+          "package_name": "com.papb.coolyeah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812915523174-n9tb4nuammvnr02jpt5cas1mu708jdvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPCvxmYGd96cpeKw_p6pD4CLa5JtRvIDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812915523174-n9tb4nuammvnr02jpt5cas1mu708jdvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

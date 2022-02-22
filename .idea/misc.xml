@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder (2)/Coolyeah/Coolyeah/app/src/main/res/layout/activity_nav_draw.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder (2)/Coolyeah/Coolyeah/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder (2)/Coolyeah/Coolyeah/app/src/main/res/layout/akun.xml" value="0.14537037037037037" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder (2)/Coolyeah/Coolyeah/app/src/main/res/layout/app_bar_nav_draw.xml" value="0.1265625" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder (2)/Coolyeah/Coolyeah/app/src/main/res/layout/content_nav_draw.xml" value="0.1265625" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder (2)/Coolyeah/Coolyeah/app/src/main/res/layout/detail_kelas.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder (2)/Coolyeah/Coolyeah/app/src/main/res/layout/detail_materi.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder (2)/Coolyeah/Coolyeah/app/src/main/res/layout/fragment_akun.xml" value="0.4" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder (2)/Coolyeah/Coolyeah/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder (2)/Coolyeah/Coolyeah/app/src/main/res/layout/list_kelas.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder (2)/Coolyeah/Coolyeah/app/src/main/res/layout/login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder (2)/Coolyeah/Coolyeah/app/src/main/res/layout/nav_header_nav_draw.xml" value="0.4" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder (2)/Coolyeah/Coolyeah/app/src/main/res/layout/register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder (2)/Coolyeah/Coolyeah/app/src/main/res/layout/tambah_kelas.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder (2)/Coolyeah/Coolyeah/app/src/main/res/menu/activity_main_drawer.xml" value="0.20680272108843537" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder (2)/Coolyeah/Coolyeah/app/src/main/res/menu/nav_draw.xml" value="0.2" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder/Coolyeah_2/Coolyeah/app/src/main/res/layout/activity_nav_draw.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder/Coolyeah_2/Coolyeah/app/src/main/res/layout/akun.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder/Coolyeah_2/Coolyeah/app/src/main/res/layout/app_bar_nav_draw.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder/Coolyeah_2/Coolyeah/app/src/main/res/layout/content_nav_draw.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder/Coolyeah_2/Coolyeah/app/src/main/res/layout/fragment_akun.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder/Coolyeah_2/Coolyeah/app/src/main/res/layout/fragment_gallery.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder/Coolyeah_2/Coolyeah/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder/Coolyeah_2/Coolyeah/app/src/main/res/layout/layout_tambah_kelas.xml" value="0.13020833333333334" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder/Coolyeah_2/Coolyeah/app/src/main/res/layout/list_kelas.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder/Coolyeah_2/Coolyeah/app/src/main/res/layout/nav_header_nav_draw.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder/Coolyeah_2/Coolyeah/app/src/main/res/layout/tambah_kelas.xml" value="0.536" />
+        <entry key="..\:/Kuliah/Semester 5/PAPB/project/New folder/Coolyeah_2/Coolyeah/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Yuk Kerja/Porto/Coolyeah/app/src/main/res/layout/activity_nav_draw.xml" value="0.25" />
+        <entry key="..\:/Yuk Kerja/Porto/Coolyeah/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Yuk Kerja/Porto/Coolyeah/app/src/main/res/layout/akun.xml" value="0.25" />
+        <entry key="..\:/Yuk Kerja/Porto/Coolyeah/app/src/main/res/layout/detail_kelas.xml" value="0.25" />
+        <entry key="..\:/Yuk Kerja/Porto/Coolyeah/app/src/main/res/layout/fragment_daftarkelas.xml" value="0.25" />
+        <entry key="..\:/Yuk Kerja/Porto/Coolyeah/app/src/main/res/layout/layout_tambah_kelas.xml" value="0.25" />
+        <entry key="..\:/Yuk Kerja/Porto/Coolyeah/app/src/main/res/layout/register.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
