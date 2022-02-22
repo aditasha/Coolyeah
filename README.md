@@ -73,14 +73,12 @@ This project was created using Kotlin, utilizing fragments from Android Studio a
 <!-- CONTACT -->
 ## Contact
 
-Aditasha | [Twitter](https://twitter.com/aditashaa) | aditasha9@gmail.com
+- Aditasha | [Twitter](https://twitter.com/aditashaa) | aditasha9@gmail.com
+- Iqbal | iqbalardiansyah21@gmail.com
+- Bayu | Sbayu875@gmail.com
+- Hafid | zisnura20@student.ub.ac.id
 
-Iqbal | iqbalardiansyah21@gmail.com
-
-Bayu | Sbayu875@gmail.com
-
-Hafid | zisnura20@student.ub.ac.id
-
+Project Link: [https://github.com/aditasha/coolyeah](https://github.com/aditasha/coolyeah)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
