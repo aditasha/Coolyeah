@@ -64,10 +64,10 @@ This project was created using Kotlin, utilizing fragments from Android Studio a
 
 
 <!-- ROADMAP -->
-## TO-DO
+<!-- ## TO-DO
 
 - [ ] Add profile picture in home and navdraw
-- [ ] Redesign UI to better suit Material Design
+- [ ] Redesign UI to better suit Material Design -->
 
 
 <!-- CONTACT -->
